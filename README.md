@@ -1,2 +1,1 @@
 # Strip
-#Madara uchiha
