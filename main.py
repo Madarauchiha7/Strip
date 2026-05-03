@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 
 # Bot configuration
 BOT_TOKEN = "8603350550:AAF-emHT1K9WX_BppZjNodu40s3HqiiVy0Y"  # Replace with your bot token
-ADMIN_IDS = []  # Add admin user IDs here for access control (leave empty for public)
+ADMIN_IDS = [6798566345]  # Add admin user IDs here for access control (leave empty for public)
 
 # Store user sessions
 user_sessions = {}
